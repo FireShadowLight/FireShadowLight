@@ -7,7 +7,7 @@ In my spare time, I enjoy reading, watching YouTube, and coding.
 
 
 ##### How to reach me:
-![gmail] (amylh02028@gmail.com)
+email:  amylh02028@gmail.com
 
 
 <!--
