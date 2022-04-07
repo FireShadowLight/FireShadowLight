@@ -9,7 +9,8 @@ In my spare time, I enjoy reading, watching YouTube, and coding.
 
 
 ##### How to reach me:
-Feel free to [email](amylh02028@gmail.com) me!
+1. email: amylh02028@gmail.com  
+2. [linkedin](https://www.linkedin.com/in/amy-huang-a61aa316b/)
 
 
 <!--
