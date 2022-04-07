@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 My name is **Amy Huang** and I am a 2nd year UCI student majoring in *Computer Science*. My pronouns are she/her/hers.
@@ -8,6 +9,9 @@ In my spare time, I enjoy reading, watching YouTube, and coding.
 
 ##### How to reach me:
 email:  amylh02028@gmail.com
+
+
+![image](https://user-images.githubusercontent.com/101838096/162115346-d0bd9517-bdcf-41d9-a373-29d05083b104.png)
 
 
 <!--
