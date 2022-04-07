@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is **Amy Huang** and I am a 2nd year UCI student majoring in *Computer Science*. My pronouns are she/her/hers.
+I started being interested in CS at the end of high school, decided to choose it as my major, and have no regrets.
+My current interests include Artificial Intelligence, Data Management, and Web Development.
+In my spare time, I enjoy reading, watching YouTube, and coding.
+
+
+##### How to reach me:
+![gmail] (amylh02028@gmail.com)
+
+
 <!--
 **FireShadowLight/FireShadowLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
