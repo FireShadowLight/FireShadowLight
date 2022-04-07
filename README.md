@@ -1,3 +1,4 @@
+<img style="text-align: right" width="199" alt="image" src="https://user-images.githubusercontent.com/101838096/162115899-46525b79-4c5f-4083-9d9c-811956375d5a.png">
 
 ### Hi there 👋
 
@@ -9,9 +10,6 @@ In my spare time, I enjoy reading, watching YouTube, and coding.
 
 ##### How to reach me:
 email:  amylh02028@gmail.com
-
-
-![image](https://user-images.githubusercontent.com/101838096/162115346-d0bd9517-bdcf-41d9-a373-29d05083b104.png)
 
 
 <!--
