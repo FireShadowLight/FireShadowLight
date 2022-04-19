@@ -5,6 +5,7 @@
 My name is **Amy Huang** and I am a 2nd year UCI student majoring in *Computer Science*. My pronouns are she/her/hers.
 I started being interested in CS at the end of high school, decided to choose it as my major, and have no regrets.
 My current interests include Artificial Intelligence, Data Management, and Web Development.
+I have learned three programming languages: Python, C++, and Java.
 In my spare time, I enjoy reading, watching YouTube, and coding.
 
 
